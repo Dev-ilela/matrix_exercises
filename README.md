@@ -25,7 +25,7 @@
 **Para utilizar cada um dos programas, você pode:**
 - Criar um novo projeto C# no Visual Studio ou em sua IDE preferida.
 - Copiar o código C# da solução desejada e colá-lo no arquivo Program.cs do seu projeto.
-- Compilar e executar o programa.
+- Comentar os demais exercícios e testar somente o que desejar.
 - Seguir as instruções na tela para inserir os dados necessários.
 
 ## Pontos de Aprendizagem:
